@@ -1,0 +1,5 @@
+Lessons plan
+
+1. What is the ML(mashing learning) & NN(neiron-net)?
+2. Python base.
+3. Android apps.
